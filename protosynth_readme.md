@@ -108,8 +108,8 @@ GPL v3.0 - Proyecto open source
 ## 🤝 Contacto
 
 **GCLab Chile**
-- Instagram: @gclab.chile
-- Email: contacto@gclab.cl
+- Instagram: @gc_lab_chile
+- Email: gsandoval@gclabchile.com
 
 ---
 
