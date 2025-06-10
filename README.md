@@ -97,9 +97,7 @@ Esta primera versión presenta limitaciones que serán corregidas en versiones f
 ## 🌟 Historia del Proyecto
 
 - **Diciembre 2024**: Primer taller de construcción de sintetizadores
-- **30 unidades fabricadas**: Todas agotadas en 6 meses a través de talleres
-- **Costo por taller**: $80.000 CLP por persona
-- **Duración**: 4 horas de construcción por taller
+- **30 unidades fabricadas**: Todas agotadas en 6 meses a través de talleres presenciales
 
 ## 📄 Licencia
 
